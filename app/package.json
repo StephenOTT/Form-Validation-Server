@@ -10,7 +10,7 @@
     "core-js": "^3.6.4",
     "express": "^4.17.1",
     "cors": "^2.8.5",
-    "formio": "^1.90.9"
+    "formio": "^2.0.0-rc.14"
   },
   "devDependencies": {}
 }
